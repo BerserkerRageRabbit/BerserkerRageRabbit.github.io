@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### ![L.1Pic](/images/11174884_1643977175814455_5214284581879126335_n.png)
+### ![L.1Pic](/images/11174884_1643977175814455_5214284581879126335_n.jpg.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
