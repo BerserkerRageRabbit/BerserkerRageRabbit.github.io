@@ -16,7 +16,7 @@ I was afraid the assignment would be docked points if i didn't use the actual en
 
 ### ![L.1Pic](/images/instruction-follower.png)
 
-The drum intro also seemed kind of plain, and before i knew that i was supposed to follow instructions and create a certain track, i had been messing around with some of the drums so i still went with it afterward while staying within the guidelines.
+The drum intro also seemed kind of plain, and before i knew that i was supposed to follow instructions and create a certain track, i had been messing around with some of the drums so i still went with it afterward while trying to stay within the guidelines.
 
 ### ![L.1Pic](/images/drums.png)
 
@@ -24,8 +24,5 @@ One of the most refreshing and least stressful parts of this assignment were the
 
 ### ![L.1Pic](/images/piano.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BerserkerRageRabbit/BerserkerRageRabbit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I honestly didn't find a problem with any of the audio on any of the tracks, so i didn't do much in terms of mastering and mixing.
+[L.1Pic](/Productions/Get Dancing.m4a)
