@@ -24,6 +24,6 @@ One of the most refreshing and least stressful parts of this assignment were the
 
 ### ![L.1Pic](/images/piano.png)
 
-The only thing i noticed with the sound that needed to be changed is that the bass didn't really stand out, so i turned up the bass track just a little bit.  
+The only thing i noticed with the sound that needed to be changed is that the bass didn't really stand out, so i turned up the bass track just a little bit. Then that made me have to turn up the piano slightly.
 
 [Audio](/Productions/GetDancing.m4a)
