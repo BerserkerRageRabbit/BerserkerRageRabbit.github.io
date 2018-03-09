@@ -25,4 +25,5 @@ One of the most refreshing and least stressful parts of this assignment were the
 ### ![L.1Pic](/images/piano.png)
 
 I honestly didn't find a problem with any of the audio on any of the tracks, so i didn't do much in terms of mastering and mixing.
+
 [L.1Pic](/Productions/Get Dancing.m4a)
