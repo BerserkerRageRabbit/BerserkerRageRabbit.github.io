@@ -20,10 +20,10 @@ The drum intro also seemed kind of plain, and before i knew that i was supposed 
 
 ### ![L.1Pic](/images/drums.png)
 
-One of the most refreshing and least stressful parts of this assignment were the piano segment and the arpeggios. At this point, I had built my foundation and the decorating part was a piece of cake.
+Some of the most refreshing and least stressful parts of this assignment were the piano segment and the arpeggios. At this point, I had built my foundation and the decorating and rearranging parts were a piece of cake.
 
 ### ![L.1Pic](/images/piano.png)
 
-The only thing i noticed with the sound that needed to be changed is that the bass didn't really stand out, so i turned up the bass track just a little bit. Then that made me have to turn up the piano slightly.
+The only thing i noticed with the sound that needed to be changed is that the bass didn't really stand out, so i turned up the bass track just a little bit. Then that made me have to turn up the piano slightly, and it was done.
 
 [Audio](/Productions/GetDancing.m4a)
