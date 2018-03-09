@@ -16,7 +16,7 @@ I was afraid the assignment would be docked points if i didn't use the actual en
 
 ### ![L.1Pic](/images/instruction-follower.png)
 
-The drum intro also seemed kind of plain, and before i knew that i was supposed to follow instructions and create a certain track, i had been messing around with some of the drums so i still went with it afterward while trying to stay within the guidelines.
+The drums also seemed kind of plain, and before i knew that i was supposed to follow instructions and create a certain track, i had been messing around with some of the drums so i still went with it afterward while trying to stay within the guidelines.
 
 ### ![L.1Pic](/images/drums.png)
 
